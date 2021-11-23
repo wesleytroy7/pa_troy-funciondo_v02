@@ -1,0 +1,94 @@
+{
+  "MOCK_DATA": [
+    {
+      "id": 1,
+      "user_name": "Tan",
+      "date_hours": "7/19/2021",
+      "peso": 63.59
+    },
+    {
+      "id": 2,
+      "user_name": "Elonore",
+      "date_hours": "10/19/2021",
+      "peso": 171.77
+    },
+    {
+      "id": 3,
+      "user_name": "Corbet",
+      "date_hours": "10/6/2021",
+      "peso": 148.07
+    },
+    {
+      "id": 4,
+      "user_name": "Evy",
+      "date_hours": "1/2/2021",
+      "peso": 170.35
+    },
+    {
+      "id": 5,
+      "user_name": "Kamilah",
+      "date_hours": "9/13/2021",
+      "peso": 38.34
+    },
+    {
+      "id": 6,
+      "user_name": "Wilburt",
+      "date_hours": "1/3/2021",
+      "peso": 123.67
+    },
+    {
+      "id": 7,
+      "user_name": "Jeannette",
+      "date_hours": "9/6/2021",
+      "peso": 175.27
+    },
+    {
+      "id": 8,
+      "user_name": "Britni",
+      "date_hours": "5/20/2021",
+      "peso": 101.28
+    },
+    {
+      "id": 9,
+      "user_name": "Joni",
+      "date_hours": "5/17/2021",
+      "peso": 74.46
+    },
+    {
+      "id": 10,
+      "user_name": "Clemens",
+      "date_hours": "1/14/2021",
+      "peso": 23.7
+    },
+    {
+      "id": 11,
+      "user_name": "Gaile",
+      "date_hours": "9/1/2021",
+      "peso": 35.47
+    },
+    {
+      "id": 12,
+      "user_name": "Rayna",
+      "date_hours": "2/20/2021",
+      "peso": 197.27
+    },
+    {
+      "id": 13,
+      "user_name": "Pace",
+      "date_hours": "2/14/2021",
+      "peso": 81.22
+    },
+    {
+      "id": 14,
+      "user_name": "Myrlene",
+      "date_hours": "5/24/2021",
+      "peso": 126.62
+    },
+    {
+      "id": 15,
+      "user_name": "Worthington",
+      "date_hours": "3/31/2021",
+      "peso": 32.16
+    }
+  ]
+}
